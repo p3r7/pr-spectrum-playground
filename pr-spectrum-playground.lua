@@ -9,7 +9,7 @@
 
 
 -- ------------------------------------------------------------------------
--- init
+-- boilderplate
 
 local fps = 10
 local redraw_clock
@@ -58,7 +58,7 @@ end
 
 
 -- ------------------------------------------------------------------------
--- drawing
+-- main
 
 -- bar origin point coordinates on screen
 local x = 128/2 -- center column of the screen
